@@ -57,9 +57,7 @@ flowchart LR
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=graypork&show_icons=true&hide_border=true" alt="Miles' GitHub stats" />
-</p>
+![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/graypork?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false)
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=graypork&hide_border=true" alt="GitHub streak" />
